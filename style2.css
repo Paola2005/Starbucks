@@ -179,7 +179,7 @@ p {
 button {
     width: 110px;
     height: 35px;
-    background-color: #097b42;
+    background-color: #f0d4dc;
     color: #fff;
     border-radius: 25px;
     border: none;
@@ -192,7 +192,7 @@ button:hover {
 }
 
 strong {
-    color: #097b42;
+    color: #f0d4dc;
 }
 
 .row {
@@ -224,15 +224,15 @@ strong {
     right: -23em;
     -webkit-clip-path: circle(50% at 50% 50%);
     clip-path: circle(50% at 50% 50%);
-    background-color: #097b42;
+    background-color: #f0d4dc;
 }
 
 .left img {
-    width: 619px;
-    padding: 7em;
+    width: 480px;
+    padding: -23em;
     position: absolute;
-    right: 4%;
-    top: 10%;
+    right: 8%;
+    top: 20%;
     z-index: 1;
 }
 
@@ -265,7 +265,7 @@ strong {
 }
 
 .nav-links ul li a:hover {
-    border-bottom: 2px solid #097b42;
+    border-bottom: 2px solid #f0d4dc;
 }
 
 /* Estilos CSS para la hamburguesa */
@@ -349,11 +349,9 @@ strong {
     .ul li {
         padding: 10px;
     }
-
     .up-l {
         height: 100%;
     }
-
     main .startbucks-Information {
         width: 100%;
         max-width: 100%;
@@ -379,7 +377,6 @@ strong {
         max-width: 200px;
         margin-bottom: 20px;
     }
-
     .bubble {
         width: 365px;
         height: 365px;
@@ -389,12 +386,12 @@ strong {
         transform: translate(50%, 50%);
         -webkit-clip-path: circle(50% at 50% 50%);
         clip-path: circle(50% at 50% 50%);
-        background-color: #097b42;
+        background-color: #f0d4dc;
         z-index: 1;
     }
 
     .left img {
-        width: 100%;
+        width: 50%;
         height: auto;
         position: absolute;
         top: 75%;
